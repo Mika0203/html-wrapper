@@ -14,12 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "html-wrapper.helloWorld",
-        "title": "Hello World"
-      },
-      {
-        "command": "html-wrapper.wrap",
-        "title": "wrap"
+        "command": "html-wrapper.wrapDiv",
+        "title": "HTML-wrapper : Wrap"
       }
     ]
   },
