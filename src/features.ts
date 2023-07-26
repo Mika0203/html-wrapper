@@ -3,7 +3,7 @@ import * as vscode from "vscode";
 /**
  * html-wrapper.wrapDiv
  * */
-const wrapDiv = () => {
+const wrapSelection = () => {
   const editor = vscode.window.activeTextEditor;
   if (editor) {
     const selection = editor.selection;
@@ -35,4 +35,4 @@ const wrapDiv = () => {
   }
 };
 
-export { wrapDiv };
+export { wrapSelection };

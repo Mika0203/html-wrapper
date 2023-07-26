@@ -15,7 +15,7 @@
     "commands": [
       {
         "command": "html-wrapper.wrapDiv",
-        "title": "HTML-wrapper : Wrap"
+        "title": "HTML-wrapper : Wrap Selection"
       }
     ]
   },
